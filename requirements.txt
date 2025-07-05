@@ -1,0 +1,19 @@
+# Web Server & Utilities
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# Core AI and Orchestration
+langgraph
+langchain
+langchain-google-genai
+google-generativeai
+
+# OCR Engine
+rapidocr-onnxruntime
+opencv-python-headless
+Pillow
+
+# Database Connector
+pymongo
